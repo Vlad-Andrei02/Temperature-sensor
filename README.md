@@ -1,0 +1,1 @@
+Created an Arduino project with an LM35 temperature sensor that monitors temperature and activates an LED when a specified threshold is exceeded. Includes real-time temperature display via serial communication.
